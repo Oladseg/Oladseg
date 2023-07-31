@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Samuel Oladapo, a tech enthusiast, web design and Blockchain Technology. 
-- 👀 I’m interested in in learning, connecting with new and great minds. 
+- 👋 Hi, I’m Samuel Oladapo, a web design and Blockchain Technology enthusiast. 
+- 👀 I’m interested in learning and connecting with new and great minds. 
 - 🌱 I’m currently learning deep Blockchain Technology 
 - 💞️ I’m looking to collaborate on several projects 
 - 📫 How to reach me: oladaposegun@gmail.com or +234-9031607439
